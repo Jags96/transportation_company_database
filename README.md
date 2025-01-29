@@ -69,8 +69,9 @@ To use the database, you’ll need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/transportation-company-db.git
-   cd transportation-company-db
+   git clone https://github.com/Jags96/transportation_company_database
+.git
+   cd transportation_company_database
    
 2. **Import the database**:
    - Open the `database.sql` file in your MySQL client (e.g., **phpMyAdmin**).
